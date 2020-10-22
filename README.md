@@ -17,3 +17,6 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 - 👏🏼 I’m looking to building my own blog with Swift and Functional programming related content
 - 💬 Ask me about Swift, TDD and career tips for non-computer science graduates
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
+
+
+[Book a session at Codementor](https://www.codementor.io/@christian.leovido)
