@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Christian.</h3>
 
 <p align="center">
-  <a href="https://www.codementor.io/@christian.leovido">Mentoring</a> •
+  <a href="https://www.codementor.io/@christian.leovido">Mentoring sessions</a> •
   <a href="https://twitter.com/frontstuff_io">Twitter</a>
 
 </p>
