@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center">👋 Hi, I'm Christian.</h3>
 
-<!--
-**kuriishu27/kuriishu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.codementor.io/@christian.leovido">Mentoring</a> •
+  <a href="https://twitter.com/frontstuff_io">Twitter</a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a Software Mentor (iOS, Swift, SwiftUI) and Freelance iOS developer. I am also the Co-Founder of [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift) and SwiftUI.
+
+I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
+
+- 🔭 I'm currently looking for graphic designers. Contact me if you have iOS designs for an app!
+- 🌱 Currently transitioning from QWERTY to Colemak keyboard layout
+- 👏🏼 I’m looking to building my own blog with Swift and Functional programming related content
+- 💬 Ask me about Swift, TDD and career tips for non-computer science graduates
+- 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
