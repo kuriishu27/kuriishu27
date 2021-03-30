@@ -28,14 +28,20 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 ## Freelance (iOS) - 2020
 - Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
 
-## Full-time (2016-2020) - AccentPOS
+## Software Consultant and Contractor - 2020-Current
+
+## Lead developer @ Accent IT Services (2016-2020)
 - AccentPOS (Swift, SwiftUI, SPM, Cocoapods, MVC to MVVM)
+- AccentPOS backend (Hapi, Node, MongoDB)
+- AccentPeak (Swift, RxSwift, MVVM)
+- AccentKit (framework)
 ### API integrations in AccentPOS
 - Star Micronics SDK (printer, CoreBluetooth)
 - Marketman (inventory management)
 - Deliverect (deliveries channel for Deliveroo, Uber Eats, etc.)
 - Paymentsense (card payments provider)
 - EVO payments (card payments provider)
+- Xero (accounts management)
 
 
 [Book a session at Codementor](https://www.codementor.io/@christian.leovido)
