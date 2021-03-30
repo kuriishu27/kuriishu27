@@ -7,7 +7,7 @@
 
 ---
 
-I'm a Software Mentor (iOS, Swift, SwiftUI) and Freelance iOS developer. I am also the Co-Founder and Lead Developer at [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift) and SwiftUI.
+I'm a Software Consultant and Mentor (iOS, Swift, SwiftUI) and iOS Contractor. I am also the Co-Founder and Lead Developer at [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift) and SwiftUI.
 
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
 
@@ -19,18 +19,23 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 - 🎹 Pianist influenced by modern music and post-romanticism 
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
 
-## Freelance (iOS) - 2020-2021
-- Medical app (from ObjC to SwiftUI)
+## Freelance (iOS) - 2021
 - Management app (UIKit, Combine, Salesforce SDK)
+
+## Freelance (Cypress, React) - 2020-2021
+- Testing framework - Medical web application for a company (Cypress, React, Monorepo)
+
+## Freelance (iOS) - 2020
+- Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
 
 ## Full-time (2016-2020) - AccentPOS
 - AccentPOS (Swift, SwiftUI, SPM, Cocoapods, MVC to MVVM)
-### API integrations
-- Star Micronics SDK
-- Marketman
-- Deliverect
-- Paymentsense 
-- EVO payments
+### API integrations in AccentPOS
+- Star Micronics SDK (printer, CoreBluetooth)
+- Marketman (inventory management)
+- Deliverect (deliveries channel for Deliveroo, Uber Eats, etc.)
+- Paymentsense (card payments provider)
+- EVO payments (card payments provider)
 
 
 [Book a session at Codementor](https://www.codementor.io/@christian.leovido)
