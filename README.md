@@ -19,10 +19,10 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 - 🎹 Pianist influenced by modern music and post-romanticism 
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
 
-## Freelance (iOS) - 2021
+## Freelance (iOS) - 2021-Current
 - Management app (UIKit, Combine, Salesforce SDK)
 
-## Freelance (Cypress, React) - 2020-2021
+## Freelance (Cypress, React) - 2020-Current
 - Testing framework - Medical web application for a company (Cypress, React, Monorepo)
 
 ## Freelance (iOS) - 2020
