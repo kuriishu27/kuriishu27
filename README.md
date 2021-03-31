@@ -19,6 +19,23 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 - 🎹 Pianist influenced by modern music and post-romanticism 
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
 
+
+# Skills
+
+- 4+ Years of iOS development (iOS 10 - iOS 14)
+    - Swift: 4 years
+        - RxSwift
+        - SwiftUI, Combine
+        - XCTest, Quick, Nimble
+    - Interests: Functional programming, software architecture, team development, TDD
+- 4 Years of Backend development
+    - JS, Node, Hapi
+    - MongoDB
+    - Cypress (tests)
+- 2 Years of Frontend development
+    - React
+    - Jest, Enzyme (tests)
+
 # Experience
 
 ## Software Consultant and Contractor - 2020-
