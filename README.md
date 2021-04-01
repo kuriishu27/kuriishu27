@@ -38,7 +38,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 # Experience
 
-## Software Consultant and Contractor - 2020-
+## Software Consultant and Contractor - 2020-Current
 
 ### Freelance (iOS) - 2021-Current
 - Management app (UIKit, Combine, Salesforce SDK)
