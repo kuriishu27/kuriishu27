@@ -22,8 +22,8 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 # Skills
 
-- 4+ Years of iOS development (iOS 10 - iOS 14)
-    - Swift: 4 years
+- 5+ Years of iOS development (iOS 10 - iOS 14)
+    - Swift: 5 years
         - RxSwift
         - SwiftUI, Combine
         - XCTest, Quick, Nimble
