@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Christian.</h3>
+<h3 align="center">👋 Hi, I'm Christian Ray Leovido</h3>
 
 <p align="center">
   <a href="https://www.codementor.io/@christian.leovido">Mentoring sessions here!</a> •
@@ -11,14 +11,14 @@ I'm a Software Consultant and Mentor (iOS, Swift, SwiftUI) and iOS Contractor. I
 
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
 
-- 🔭 I'm currently looking for graphic designers. Contact me if you have iOS designs for an app!
-- 🌱 Currently transitioning from QWERTY to Colemak keyboard layout
+- 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
+- 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 👔 Javascript, Node, Typescript, React, Redux
 - 👏🏼 I’m looking to building my own blog with Swift and Functional programming related content
-- 💬 Ask me about Swift, TDD and career tips for non-computer science graduates
+- 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
 - 🎹 Pianist influenced by modern music and post-romanticism 
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
-
+- 🏗 Available for contact work!
 
 # Skills
 
