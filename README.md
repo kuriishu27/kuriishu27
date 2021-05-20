@@ -19,6 +19,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
 - 🎹 Pianist influenced by modern music and post-romanticism 
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
+- ⭐️ Need reviews and references? Check out what my clients have to say about my services and work [here](https://www.codementor.io/@christian.leovido)
 - 🏗 Available for contact work!
 
 # Skills
