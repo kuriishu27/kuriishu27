@@ -13,6 +13,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
+- 🔆 Always improving myself and finding better ways to be productive to produce the best value
 - 👔 Javascript, Node, Typescript, React, Redux
 - 👏🏼 I’m looking to building my own blog with Swift and Functional programming related content
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
