@@ -7,11 +7,12 @@
 
 ---
 
-I'm a Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am also the Co-Founder and Lead Developer at [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI and Combine.
+I'm a Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am also the Co-Founder and Lead Developer at [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
 
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
 
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
+- 👀 Blockchain technology and developing dApps, wallets, Defi...
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
 - 👔 Javascript, Node, Typescript, React, Redux
@@ -42,7 +43,12 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 ## Software Consultant and Contractor - 2020-Current
 
-### Freelance (iOS) - 2021-Current
+### AccentPOS - [SEP 2021 - Current]
+
+### Crypto wallet - 2021
+- Porting a JS module into Swift
+
+### Freelance (iOS) - 2021
 - Management app (UIKit, Combine, Salesforce SDK)
 
 ### Freelance (iOS) - 2020
