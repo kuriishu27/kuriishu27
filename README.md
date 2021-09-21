@@ -42,6 +42,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 # Experience
 
 ## Software Consultant and Contractor - 2020-Current
+- Building a production app with The Composable Architecture by Pointfree
 
 ### AccentPOS - [SEP 2021 - Current]
 
