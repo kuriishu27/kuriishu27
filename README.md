@@ -44,16 +44,18 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 ## Software Consultant and Contractor - 2020-Current
 - Building a production app with The Composable Architecture by Pointfree
 
-### AccentPOS - [SEP 2021 - Current]
-
 ### Crypto wallet - 2021
 - Porting a JS module into Swift
+- Tranforming the Figma design into SwiftUI
+- Usage of Swift Package Manager to import dependencies into main Xcode project (no Cocoapods, no Carthage)
 
 ### Freelance (iOS) - 2021
 - Management app (UIKit, Combine, Salesforce SDK)
+- Cocoapods dependency manager
 
 ### Freelance (iOS) - 2020
 - Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
+- Local storage with Core Data
 
 ### Contract (Cypress, React) - 2020-Current
 - Testing framework - Medical web application for a company (Cypress, React, Monorepo)
