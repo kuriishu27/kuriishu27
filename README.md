@@ -7,7 +7,7 @@
 
 ---
 
-I'm a Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am also the Co-Founder and Lead Developer at [AccentPOS](https://accentpos.com), a complete management system. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
+I'm a Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
 
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
 
