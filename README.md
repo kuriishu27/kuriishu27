@@ -25,11 +25,11 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 # Skills
 
-- 5+ Years of iOS development (iOS 10 - iOS 14)
+- 5+ Years of iOS development (iOS 10 - iOS 15)
     - Swift:
         - RxSwift
         - SwiftUI, Combine
-        - XCTest, Quick, Nimble
+        - XCTest, Snapshot testing
     - Interests: Functional programming, software architecture, TDD, team development
 - 4 Years of Backend development
     - JS, Node, Hapi
