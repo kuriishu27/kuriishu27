@@ -7,7 +7,9 @@
 
 ---
 
-I'm a Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
+I'm a Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
+
+Currently as of 2021-Nov, I'm working full-time @ Leighton with the British Airways Executive Rewards app.
 
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
 
