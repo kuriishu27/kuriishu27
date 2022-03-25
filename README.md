@@ -45,7 +45,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 ## Senior Software Engineer (iOS) @ Leighton - 2021-Current
 - British Airways Executive Rewards app (iOS)
 
-## Software Consultant and Contractor - 2020-Current
+## Software Consultant and Contractor - 2020-2021
 - Building a production app with The Composable Architecture by Pointfree
 
 ### Crypto wallet - 2021
