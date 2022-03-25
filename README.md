@@ -48,10 +48,14 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 ## Software Consultant and Contractor - 2020-2021
 - Building a production app with The Composable Architecture by Pointfree
 
-### Crypto wallet - 2021
+### Audyo - 2021
+- Reading audio iOS app
+https://join.audyo.ai/
+
+### Bitcoin key management wallet - 2021
 - Porting a JS module into Swift
 - Tranforming the Figma design into SwiftUI
-- Usage of Swift Package Manager to import dependencies into main Xcode project (no Cocoapods, no Carthage)
+- Swift Package Manager to import dependencies into main Xcode project (no Cocoapods, no Carthage)
 
 ### Freelance (iOS) - 2021
 - Management app (UIKit, Combine, Salesforce SDK)
