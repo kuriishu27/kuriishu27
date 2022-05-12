@@ -7,11 +7,11 @@
 
 ---
 
-I'm a Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains and Crypto.
+I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains, Crypto, Functional (reactive) programming.
 
-Currently as of 2021-Nov, I'm working full-time @ Leighton with the British Airways Executive Rewards app.
+Currently as of 2021-Nov, I'm working full-time @ Leighton on the British Airways Executive Rewards, Vueling Club, AERClub rewards apps.
 
-I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc.
+I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
 - 👀 Blockchain technology and developing dApps, wallets, Defi...
