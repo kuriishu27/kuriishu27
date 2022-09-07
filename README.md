@@ -26,7 +26,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 # Skills
 
-- 5+ Years of iOS development (iOS 10 - iOS 15)
+- 6+ Years of iOS development (iOS 10 - iOS 15)
     - Swift:
         - RxSwift
         - SwiftUI, Combine
@@ -44,6 +44,9 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 ## Senior Software Engineer (iOS) @ Leighton - 2021-Current
 - British Airways Executive Rewards app (iOS)
+- AER Club Rewards app (iOS, TypeScript)
+- Vueling Club Rewards app (iOS, TypeScript)
+- Financial service integration with Mastercard (SwiftUI, Combine, Swift Package Manager)
 
 ## Software Consultant and Contractor - 2020-2021
 - Building a production app with The Composable Architecture by Pointfree
