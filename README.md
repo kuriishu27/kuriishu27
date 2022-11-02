@@ -9,8 +9,6 @@
 
 I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains, Crypto, Functional (reactive) programming.
 
-Currently as of 2021-Nov, I'm working full-time @ Leighton on the British Airways Executive Rewards, Vueling Club, AERClub rewards apps.
-
 I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
@@ -26,25 +24,27 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 # Skills
 
-- 6+ Years of iOS development (iOS 10 - iOS 15)
+- 6+ Years of iOS development (iOS 10 - iOS 16)
     - Swift:
         - RxSwift
         - SwiftUI, Combine
-        - XCTest, Snapshot testing
-    - Interests: Functional programming, software architecture, TDD, team development
-- 4 Years of Backend development
-    - JS, Node, Hapi
+        - XCTest, XCUITest, Snapshot testing
+        - Apollo (GraphQL)
+    - Interests: Functional programming, software architecture, Test driven development, team development
+
+- Other skills and frameworks
+    - JavaScript, TypeScript
+    - React and React Native
+    - Node, Hapi, GraphQL
     - MongoDB
     - Cypress (tests)
-- 2 Years of Frontend development
-    - React
     - Jest, Enzyme (tests)
 
 # Experience
 
 ## Senior Software Engineer (iOS) @ Leighton - 2021-Current
 - British Airways Executive Rewards app (iOS)
-- AER Club Rewards app (iOS, TypeScript)
+- AER Lingus Club Rewards app (iOS, TypeScript)
 - Vueling Club Rewards app (iOS, TypeScript)
 - Financial service integration with Mastercard (SwiftUI, Combine, Swift Package Manager)
 
@@ -53,7 +53,7 @@ I offer long term mentoring sessions to improve your skills in design patters, s
 
 ### Audyo - 2021
 - Reading audio iOS app
-https://join.audyo.ai/
+https://audyo.ai/
 
 ### Bitcoin key management wallet - 2021
 - Porting a JS module into Swift
@@ -68,7 +68,7 @@ https://join.audyo.ai/
 - Medical app for an individual (from ObjC to SwiftUI, MVVM, CoreData)
 - Local storage with Core Data
 
-### Contract (Cypress, React) - 2020-Current
+### Contract (Cypress, React) - 2020-2021
 - Testing framework - Medical web application for a company (Cypress, React, Monorepo)
 
 ## Lead developer @ Accent IT Services (2016-2020)
