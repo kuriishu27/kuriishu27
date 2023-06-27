@@ -9,8 +9,11 @@
 
 I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains, Crypto, Functional (reactive) programming.
 
-I offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
+I am currently working full-time on the Rewards app at IAGL through Leighton. The apps I work on are known for alloweng users to collect, and spend Avios points: British Airways Executive Club, Aer Club and Vueling Club.
 
+I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
+
+- ⌨️ DevOps and CI/CD pipelines 
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
 - 👀 Blockchain technology and developing dApps, wallets, Defi...
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
