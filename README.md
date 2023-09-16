@@ -34,11 +34,11 @@ I also offer long term mentoring sessions to improve your skills in design patte
         - XCTest, XCUITest, Snapshot testing
         - Apollo (GraphQL)
     - Interests: Functional programming, software architecture, Test driven development, team development
-
 - Other skills and frameworks
+    - Scrum
     - JavaScript, TypeScript
     - React and React Native
-    - Node, Hapi, GraphQL
+    - Node, GraphQL
     - MongoDB
     - Cypress (tests)
     - Jest, Enzyme (tests)
