@@ -27,7 +27,8 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Skills
 
-- 6+ Years of iOS development (iOS 10 - iOS 16)
+- 2 years of React Native
+- 6+ Years of iOS development (iOS 10 - iOS 17)
     - Swift:
         - RxSwift
         - SwiftUI, Combine
@@ -44,6 +45,9 @@ I also offer long term mentoring sessions to improve your skills in design patte
     - Jest, Enzyme (tests)
 
 # Experience
+
+## Senior Software Engineer @ Leighton - 2021-Current
+- IAGL whitelabel rewards app (React Native)
 
 ## Senior Software Engineer (iOS) @ Leighton - 2021-Current
 - British Airways Executive Rewards app (iOS)
