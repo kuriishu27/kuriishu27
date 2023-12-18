@@ -13,15 +13,14 @@ I am currently working full-time on the Rewards app at IAGL through Leighton. Th
 
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
-- ⌨️ DevOps and CI/CD pipelines 
+- ⌨️ Passionate about DevOps, CI/CD pipelines and automation
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
 - 👀 Blockchain technology and developing dApps, wallets, Defi...
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
-- 👔 Javascript, Node, Typescript, React, Redux
-- 👏🏼 I’m looking to building my own blog with Swift and Functional programming related content
+- 👔 Javascript, Typescript, React, Redux
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
-- 🎹 Pianist influenced by modern music and post-romanticism 
+- 🎹 Pianist
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
 - ⭐️ Need reviews and references? Check out what my clients have to say about my services and work [here](https://www.codementor.io/@christian.leovido)
 
