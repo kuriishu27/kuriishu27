@@ -26,8 +26,8 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Skills
 
-- 2 years of React Native
-- 6+ Years of iOS development (iOS 10 - iOS 17)
+- 2 years of React Native / 4 with React 
+- 8+ Years of iOS development (iOS 10 - iOS 17)
     - Swift:
         - RxSwift
         - SwiftUI, Combine
