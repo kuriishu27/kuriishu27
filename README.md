@@ -20,8 +20,8 @@ I also offer long term mentoring sessions to improve your skills in design patte
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
 - 👔 JavaScript, TypeScript, React, Redux
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
-- 🎹 Pianist
-- 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
+- 🎹 Pianist [@youtube](https://www.youtube.com/channel/UCEfGXwW2g3U7td8WPnzim1w)
+- 📩 How to reach me: [@leovido](mailto:github@neonchords.maskmy.id)
 - ⭐️ Need reviews and references? Check out what my clients have to say about my services and work [here](https://www.codementor.io/@christian.leovido)
 
 # Skills
