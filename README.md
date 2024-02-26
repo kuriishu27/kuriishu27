@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.codementor.io/@christian.leovido">Mentoring sessions here!</a> •
-  <a href="https://twitter.com/c_leovido">Twitter</a>
+  <a href="https://warpcast.com/leovido.eth">Warpcast</a>
 </p>
 
 ---
