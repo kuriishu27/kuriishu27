@@ -18,7 +18,7 @@ I also offer long term mentoring sessions to improve your skills in design patte
 - 👀 Blockchain technology and developing dApps, wallets, Defi...
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
-- 👔 Javascript, Typescript, React, Redux
+- 👔 JavaScript, TypeScript, React, Redux
 - 💬 Ask me about Swift, SwiftUI, Combine, TDD and career tips for non-computer science graduates
 - 🎹 Pianist
 - 📩 How to reach me: [@c_leovido](https://twitter.com/c_leovido)
