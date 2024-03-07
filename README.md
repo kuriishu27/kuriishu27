@@ -7,15 +7,15 @@
 
 ---
 
-I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. I am a massive fan of [Swift](https://github.com/apple/swift), SwiftUI, Combine, Blockchains, Crypto, Functional (reactive) programming.
+I'm a Senior Software Engineer, Software Consultant (iOS, Swift, SwiftUI) and iOS Contractor. DevOps, Onchain explorer, Blockchain, Crypto, Functional (reactive) programming.
 
-I am currently working full-time on the Rewards app at IAGL through Leighton. The apps I work on are known for alloweng users to collect, and spend Avios points: British Airways Executive Club, Aer Club and Vueling Club.
+I am currently working full-time on the Rewards app at IAGL (Avios) through Leighton. The apps I work on are known for allowing users to collect, and spend Avios points: British Airways Executive Club, Aer Club and Vueling Club.
 
 I also offer long term mentoring sessions to improve your skills in design patters, software development, basics of programming, etc. as well.
 
 - ⌨️ Passionate about DevOps, CI/CD pipelines and automation
 - 🔭 Massive fan of Functional and Reactive programming. Highly recommend [Pointfree.co](https://www.pointfree.co)
-- 👀 Blockchain technology and developing dApps, wallets, Defi...
+- 👀 Blockchain technology and developing dApps, wallets, FC frames
 - 🌱 Successfully transitioned from QWERTY to [Colemak](https://colemak.com) keyboard layout
 - 🔆 Always improving myself and finding better ways to be productive to produce the best value
 - 👔 JavaScript, TypeScript, React, Redux
@@ -26,7 +26,7 @@ I also offer long term mentoring sessions to improve your skills in design patte
 
 # Skills
 
-- 2 years of React Native / 4 with React 
+- 4 years of React Native + React 
 - 8+ Years of iOS development (iOS 10 - iOS 17)
     - Swift:
         - RxSwift
